@@ -6,7 +6,7 @@
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
 떡집 체험기는 신림동 신사리 잉꼬 떡방아를 홍보하기 위한 앱게임입니다.  <br>
-클릭해서 떡집을 키워나가보세요!<br>
+아래를 클릭해서 떡집을 키워나가보세요!<br>
 [원스토어](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000752462)에서 다운받을 수 있습니다.
 
 
